@@ -1,0 +1,16 @@
+C:\Users\cesar\source\repos\ProyectoHungaro\bin\Debug\net8.0-windows\ProyectoHungaro.exe
+C:\Users\cesar\source\repos\ProyectoHungaro\bin\Debug\net8.0-windows\ProyectoHungaro.deps.json
+C:\Users\cesar\source\repos\ProyectoHungaro\bin\Debug\net8.0-windows\ProyectoHungaro.runtimeconfig.json
+C:\Users\cesar\source\repos\ProyectoHungaro\bin\Debug\net8.0-windows\ProyectoHungaro.dll
+C:\Users\cesar\source\repos\ProyectoHungaro\bin\Debug\net8.0-windows\ProyectoHungaro.pdb
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.Form1.resources
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.AssemblyInfo.cs
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.dll
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\refint\ProyectoHungaro.dll
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.pdb
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ProyectoHungaro.genruntimeconfig.cache
+C:\Users\cesar\source\repos\ProyectoHungaro\obj\Debug\net8.0-windows\ref\ProyectoHungaro.dll
